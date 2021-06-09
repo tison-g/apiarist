@@ -17,7 +17,7 @@ num_nodes = 3
 versions = {
     'clef': '0.4.12',
     'bee': '0.6.2',
-    'geth': 'v1.10.2'
+    'geth': 'v1.10.3'
 }
 
 # Where do we keep the sweet honey
