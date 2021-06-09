@@ -36,8 +36,8 @@ names:
 # Every bee has it's day
 versions = {
     'clef': '0.4.12',
-    'bee': '0.6.1',
-    'geth': 'v1.10.2'
+    'bee': '0.6.2',
+    'geth': 'v1.10.3'
 }
 
 # Where do we keep the sweet honey. This best be an SSD with enough storage
