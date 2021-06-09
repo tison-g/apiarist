@@ -69,7 +69,7 @@ services:
     restart: always
     command:
       - '--goerli'
-      - '--syncmode=light'
+      - '--syncmode=fast'
       - '--http'
       - '--http.corsdomain=*'
       - '--http.vhosts=*'
